@@ -11,7 +11,7 @@ int main()
 
     cout << "Hello World!\n";
 
-    cout << c;
+    cout << a;
 
     return 0;
 }
