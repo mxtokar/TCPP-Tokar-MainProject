@@ -2,8 +2,10 @@
 using namespace std;
 
 int main()
-{
-    int e2;
+
+    int e2; 
+// конфлікт вирішено 26.04
+    int e; 
     int a, b, c; //Змінено з браузера
 
     a = 1; //Змінено з IDE
