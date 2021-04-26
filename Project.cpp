@@ -5,7 +5,7 @@ int main()
 {
     int a, b, c;
 
-    a = 1;
+    a = 1; //Змінено з IDE
     b = 3;
     c = a + b;
 
