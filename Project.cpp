@@ -5,14 +5,13 @@ int main()
 {
     int a, b, c;
 
-    a = 2;
-    b = 2;
-    b = 4;
+    a = 1;
+    b = 3;
     c = a + b;
 
     cout << "Hello World!\n";
 
-    cout << a;
+    cout << c;
 
     return 0;
 }
